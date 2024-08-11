@@ -11,7 +11,11 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "next": "14.2.5",
+    "wagmi": "^1.1.0",
+    "ethers": "^6.1.0",
+    "rainbowkit": "^0.5.8",
+    "styled-components": "^5.3.10"
   },
   "devDependencies": {
     "postcss": "^8",
